@@ -5,6 +5,7 @@
 - Bitcoin, Ethereum, Tether USDt, BNB, XRP, Solana, USD Coin, Lido Staked ETH, Cardano, Dogecoin, TRON, Wrapped TRON, Toncoin, Chainlink, Avalanche, Polygon, Polkadot, Wrapped Bitcoin, Dai, Litecoin
 
 - Requirements:
+https://docs.google.com/document/d/1LFYIU1dyu2KkyWvMxxTjQW-S_BsiahvuF6w_QejGUWI/edit
 
 - Data Set: 
 https://finance.yahoo.com/crypto/
