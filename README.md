@@ -24,7 +24,8 @@ Visuals:
 Cloud Service: Google Looker Studio
 
 Steps:
-1. n/a
-2. n/a
-3. n/a
+1. Extract data from Yahoo Finance
+2. Turn data into a data frame
+3. Store data frame into a CSV
+4. Upload CSV into Google Looker Studio to make visuals
 
