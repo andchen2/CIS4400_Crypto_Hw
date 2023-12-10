@@ -2,7 +2,7 @@
 
 * 2023 Cryto Data Warehouse Project for CIS4400
 
--Bitcoin, Ethereum, Tether USDt, BNB, XRP, Solana, USD Coin, Lido Staked ETH, Cardano, Dogecoin, TRON, Wrapped TRON, Toncoin, Chainlink, Avalanche, Polygon, Polkadot, Wrapped Bitcoin, Dai, Litecoin
+- Bitcoin, Ethereum, Tether USDt, BNB, XRP, Solana, USD Coin, Lido Staked ETH, Cardano, Dogecoin, TRON, Wrapped TRON, Toncoin, Chainlink, Avalanche, Polygon, Polkadot, Wrapped Bitcoin, Dai, Litecoin
 
 -Requirements:
 
