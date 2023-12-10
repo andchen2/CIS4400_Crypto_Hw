@@ -7,11 +7,11 @@ Requirements:
 Data Set: 
 https://finance.yahoo.com/crypto/
 
-Data Dictionary:
-https://docs.google.com/spreadsheets/d/1Kd8iCBhYWJ5prSwElT00h48Ns_tIZUSO5A5xXu339bo/edit#gid=0
-
 Presentation:
 https://docs.google.com/presentation/d/1CwQyzJbHl5uXZLdQk0IumvSFo749gnflMANTapsjtHo/edit?usp=sharing
+
+Data Dictionary:
+https://docs.google.com/spreadsheets/d/1Kd8iCBhYWJ5prSwElT00h48Ns_tIZUSO5A5xXu339bo/edit#gid=0
 
 Data Model:
 
