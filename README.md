@@ -14,5 +14,15 @@ Data Model:
 
 <img width="915" alt="CIS4400_Cyrpto_Hw_Data_Modeling" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/00b7dd7b-2634-4ae0-8efb-4d717067ac6f">
 
+Cloud Service: Google looker studios
+
 Presentation:
 https://docs.google.com/presentation/d/1CwQyzJbHl5uXZLdQk0IumvSFo749gnflMANTapsjtHo/edit?usp=sharing
+
+Visuals:
+
+Steps:
+1.
+2.
+3.
+
