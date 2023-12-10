@@ -15,16 +15,16 @@ Data Model:
 <img width="915" alt="CIS4400_Cyrpto_Hw_Data_Modeling" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/00b7dd7b-2634-4ae0-8efb-4d717067ac6f">
 
 
-Presentation:
-https://docs.google.com/presentation/d/1CwQyzJbHl5uXZLdQk0IumvSFo749gnflMANTapsjtHo/edit?usp=sharing
-
-
 Visuals:
+
 <img width="800" alt="CIS4400_Crypto_Hw_Looker1" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/d0b7493a-f371-4fff-82bf-0b359d7beebd">
 <img width="912" alt="CIS4400_Crypto_Hw_Looker2" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/bb06828c-c51c-4030-bf88-6c4cb71a5950">
 
 
 Cloud Service: Google Looker Studio
+
+Presentation:
+https://docs.google.com/presentation/d/1CwQyzJbHl5uXZLdQk0IumvSFo749gnflMANTapsjtHo/edit?usp=sharing
 
 Steps:
 1. Extract data from Yahoo Finance
