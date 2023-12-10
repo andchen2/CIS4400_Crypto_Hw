@@ -1,4 +1,4 @@
-# cis4400_crypto_hw
+# CIS4400_Crypto_Hw
 
 - 2023 Cryto Data Warehouse Project for CIS4400
 
