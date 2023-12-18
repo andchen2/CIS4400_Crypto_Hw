@@ -31,9 +31,9 @@ https://docs.google.com/spreadsheets/d/1Kd8iCBhYWJ5prSwElT00h48Ns_tIZUSO5A5xXu33
 - Presentation:
 https://docs.google.com/presentation/d/1CwQyzJbHl5uXZLdQk0IumvSFo749gnflMANTapsjtHo/edit?usp=sharing
 
-- Steps:
- 1. Extract data from Yahoo Finance
- 2. Turn data into a data frame
- 3. Store data frame into a CSV
- 4. Upload CSV into Google Looker Studio to make visuals
+Steps:
+1. Extract data from Yahoo Finance
+2. Turn data into a data frame
+3. Store data frame into a CSV
+4. Upload CSV into Google Looker Studio to make visuals
 
