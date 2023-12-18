@@ -19,8 +19,8 @@ https://docs.google.com/spreadsheets/d/1Kd8iCBhYWJ5prSwElT00h48Ns_tIZUSO5A5xXu33
 
 
 - Visuals:
-  - First chart shows Crypto Price change 
-  - Second chart shows Crypto Volume change 
+  - First graph shows Crypto Price change 
+  - Second graph shows Crypto Volume change 
 
 <img width="800" alt="CIS4400_Crypto_Hw_Looker1" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/d0b7493a-f371-4fff-82bf-0b359d7beebd">
 <img width="912" alt="CIS4400_Crypto_Hw_Looker2" src="https://github.com/andchen2/CIS4400_Crypto_Hw/assets/132695752/bb06828c-c51c-4030-bf88-6c4cb71a5950">
